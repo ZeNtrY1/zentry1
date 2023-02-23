@@ -1,0 +1,83 @@
+body {
+	background-image:url(images/1.jpg);
+}
+
+#head {
+	position:absolute;
+	top:-5px;
+	right:-5px;
+	left:-7px;
+	background-color:#638287;
+	color:#333;
+	margin:5px;
+	border:10px solid #2F3841;	
+	box-shadow:10px 10px 10px #2F3841;
+	opacity:0.9;
+}
+
+#sign-up {
+	position:absolute;
+	right:100px;
+	bottom:565px;
+	box-shadow:0px 0px 0px #2F3841;
+}
+
+#register {
+	position:absolute;
+	right:30px;
+	bottom:565px;
+	box-shadow:0px 0px 0px #2F3841;
+}
+
+button {
+	background-color:#638287;
+	color:#333;
+	margin:5px;
+	border:3px solid #2F3841;
+	border-radius:100px;
+	box-shadow:10px 10px 10px #2F3841;
+	opacity:0.9;
+}
+
+audio {
+	border:3px solid #2F3841;
+	border-radius:100px;
+	position:absolute right;
+}
+
+#name {
+	position:absolute;
+	top:35px;
+	left:550px;
+	color:#333;
+	border:3px solid #2F3841;
+	background-color:#BEC1C1;
+}
+
+#find {
+	position:absolute;
+	top:30px;
+	left:730px;
+	box-shadow:0px 0px 0px #2F3841;
+}
+
+#music {
+	position:absolute;
+	bottom:-1650px;
+}
+
+footer {
+	position:absolute;
+	bottom:-1800px;
+}
+
+#info {
+	border:5px solid #2F3841;
+	background-color:#638287;
+	box-shadow:10px 10px 10px #2F3841;
+	opacity:0.9;
+	position:absolute;
+	right:-100px;
+	left:-7px;
+	top:-120px;
+}

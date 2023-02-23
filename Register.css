@@ -1,0 +1,17 @@
+body {
+	background-image:url(images/1.jpg);
+}
+
+#Register {
+	position:absolute;
+	top:-5px;
+	right:400px;
+	left:400px;
+	bottom:50px;
+	background-color:#638287;
+	color:#333;
+	margin:70px;
+	border:10px solid #2F3841;	
+	box-shadow:10px 10px 10px #2F3841;
+	opacity:0.9;
+}
